@@ -1,3 +1,8 @@
+---
+layout: default
+title: Stored DOM XSS
+---
+
 # Lab: Stored DOM XSS
 **Difficulty:** Practitioner
 
