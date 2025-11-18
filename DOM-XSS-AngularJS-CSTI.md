@@ -22,7 +22,7 @@ opening the lab, I was greeted with a blog website which had the search function
 
 Since, I knew beforehand that it implements AngularJS, I tried to see if I passed this `{{ 7+7 }}`
 would I get 14 as result or will it be printed to the screen of the web application as it is. The
-{{ ... }} can be used for execution, if a function, or an expression is included between the curly-
+`{{ ... }}` can be used for execution, if a function, or an expression is included between the curly-
 braces, it gets executed, or solved and the final result is shown as the output. To confirm, if 
 it really does exists, I tried a test payload and the web application was indeed had AngularJS 
 framework implemented underneath 
@@ -38,16 +38,16 @@ happen and it didn't got executed as I expected it
 Since, the earlier function didn't work, which I had already expected to fail, since in AngularJS 
 framework, window level functions like that of alert() are usually restricted, therefore we would 
 need something else that could help us to escape this restriction. So I tried to see what is my current
-status within this AngularJS environment, which can be checked easily by executing **{{ this }}**
+status within this AngularJS environment, which can be checked easily by executing `**{{ this }}**`
 which would tell us what we are in this environment.
 
 <img width="905" height="728" alt="b4" src="https://github.com/user-attachments/assets/91bbf7b9-8625-4d41-b2c3-c573d8122679" />
 
-On executing **{{ this }}**, I found that we are currently an object in the current environment. 
+On executing `**{{ this }}**`, I found that we are currently an object in the current environment. 
 This is actually a great thing, since every object in the JavaScript has a constructor property.
 This means that the current object created was done using a certain function, and to know about the
 constructor properties of this function or the constructor properties that this object has, we can
-check by executing **{{ constructor }}** which tells us about the properties of the function which 
+check by executing `**{{ constructor }}**` which tells us about the properties of the function which 
 was used to create this object.
 
 <img width="907" height="732" alt="b5" src="https://github.com/user-attachments/assets/bcd001e2-de6e-479d-9008-21c2b68262f4" />
@@ -58,7 +58,7 @@ created the object we are now, or in other words, we are trying to see the prope
 or master function, if we are able to find this master function, there is a probability that we can
 use this master function to build our own function that could help us to escape the restrictions.
 This is rather easy, to check the properties of the function of the function, all we need to do is 
-**{{ constructor.constructor }}** 
+``**{{ constructor.constructor }}**`` 
 
 <img width="905" height="732" alt="b6" src="https://github.com/user-attachments/assets/ac8b61d8-a617-49d7-9e9e-03aa218f5e42" />
 
@@ -92,7 +92,7 @@ this step can be easily completed by simply adding () after the function for fun
 
 Now, our final payload would look like 
 
-Payload: {{ constructor.constructor('alert(1)')() }}
+Payload: `{{ constructor.constructor('alert(1)')() }}`
 
 <img width="904" height="733" alt="b7" src="https://github.com/user-attachments/assets/89c40c74-088c-4ccc-a6d8-f6b63ab23f2c" />
 
