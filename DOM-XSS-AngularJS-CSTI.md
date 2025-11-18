@@ -1,4 +1,4 @@
-title: "Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded"
+# Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
 
 **Difficulty:** Practitioner
 **Vulnerability:** Client-Side Template Injection (CSTI)
