@@ -11,3 +11,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [DOM XSS in jQuery href attribute anchor (Apprentice)](./DOM-XSS-jQuery-Href)
 * [DOM XSS in innerHTML as sink and source location.search (Apprentice)](./DOM-XSS-innerHTML)
 * [DOM XSS in innerHTML between select tag (Apprentice)](./DOM-XSS-Document-Write-Select)
+* [DOM XSS in document.write() (Apprentice)](./DOM-XSS-Document-Write)
