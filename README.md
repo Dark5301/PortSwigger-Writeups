@@ -9,3 +9,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [DOM XSS in AngularJS (Practitioner)](./DOM-XSS-AngularJS-CSTI)
 * [DOM XSS in jQuery with Hashchange (Apprentice)](./DOM-XSS-jQuery-Hashchange)
 * [DOM XSS in jQuery href attribute anchor (Apprentice)](./DOM-XSS-jQuery-Href)
+* [DOM XSS in innerHTML as sink and source location.search (Apprentice)](./DOM-XSS-innerHTML)
