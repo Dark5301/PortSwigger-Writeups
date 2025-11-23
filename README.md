@@ -14,3 +14,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [DOM XSS in document.write() (Apprentice)](./DOM-XSS-Document-Write)
 * [Stored XSS in HTML context (Apprentice)](./Stored-XSS-HTML-Context)
 * [Reflected XSS in HTML context (Apprentice)](./Reflected-XSS-HTML-Context)
+* [Reflected XSS with blocked tags (Practitioner)](./Reflected-XSS-Blocked-Tags)
