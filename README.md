@@ -16,3 +16,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [Reflected XSS in HTML context (Apprentice)](./Reflected-XSS-HTML-Context)
 * [Reflected XSS with blocked tags (Practitioner)](./Reflected-XSS-Blocked-Tags)
 * [Reflected XSS into HTML context, all tags blocked except custom ones (Practitioner)](./Reflected-XSS-Custom-Tags)
+* [Reflected XSS, event handlers & href attributes blocked (Expert)](./Reflected-XSS-SVG-Attribute-Smuggling)
