@@ -20,3 +20,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [Reflected XSS, some SVG markup allowed (Practitioner)](./Reflected-XSS-SVG-Animation)
 * [Reflected XSS into Attribute (Apprentice)](./Reflected-XSS-into-Attribute)
 * [Stored XSS into Anchor href (Apprentice)](./Stored-XSS-into-Anchor-href)
+* [Reflected XSS in Canonical Link Tag (Practitioner)](./Reflected-XSS-in-Canonical-Link)
