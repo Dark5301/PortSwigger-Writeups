@@ -23,3 +23,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [Reflected XSS in Canonical Link Tag (Practitioner)](./Reflected-XSS-canonical-link-tag)
 * [Reflected XSS into JS String (Practitioner)](./Reflected-XSS-into-JS-String)
 * [Reflected XSS into JS String with Angle Brackets Encoded (Apprentice)](./Reflected-XSS-into-JS-String-with-Angle-Brackets-Encoded)
+* [Reflected XSS with single quotes escaped (Apprentice)](./Reflected-XSS-with-Single-Quotes-Escaped)
