@@ -25,3 +25,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [Reflected XSS into JS String with Angle Brackets Encoded (Apprentice)](./Reflected-XSS-into-JS-String-with-Angle-Brackets-Encoded)
 * [Reflected XSS with single quotes escaped (Apprentice)](./Reflected-XSS-with-Single-Quotes-Escaped)
 * [Reflected XSS in JavaScript URL with Characters Blocked (Expert)](./Reflected-XSS-in-JavaScript-URL-with-Characters-Blocked)
+* [Stored XSS into onclick (Apprentice)](./Stored-XSS-into-onclick)
