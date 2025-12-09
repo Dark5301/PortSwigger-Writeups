@@ -30,3 +30,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [Stored XSS into comments (Practitioner)](./stored-xss-portswigger-comments)
 * [Stored XSS Credential harvesting (Practitioner)](./stored-xss-credential-harvesting)
 * [XSS bypassing csrf protection (Practitioner)](./xss-bypassing-csrf-protection)
+* [CSP Bypass Dangling Markup (Practitioner)](./csp-bypass-dangling-markup)
