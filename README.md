@@ -29,3 +29,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [Reflected XSS into Template Literal (Apprentice)](./Reflected-XSS-into-Template-Literal)
 * [Stored XSS into comments (Practitioner)](./stored-xss-portswigger-comments)
 * [Stored XSS Credential harvesting (Practitioner)](./stored-xss-credential-harvesting)
+* [XSS bypassing csrf protection (Practitioner)](./xss-bypassing-csrf-protection)
