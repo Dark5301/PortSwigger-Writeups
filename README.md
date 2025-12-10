@@ -37,3 +37,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 
 ### Cross-Origin-Resource-Sharing (CORS)
 * [CORS vulnerability with basic origin reflection (Apprentice)](./cors-misconfiguration-api-key-theft)
+* [CORS vulnerability with trusted null origin (Apprentice)](./cors-null-origin-bypass)
