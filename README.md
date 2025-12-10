@@ -33,3 +33,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [CSP Bypass Dangling Markup (Practitioner)](./csp-bypass-dangling-markup)
 * [Reflected XSS CSP Header Injection (Expert)](./reflected-xss-csp-header-injection)
 * [Reflected XSS with AngularJS sandbox escape without strings (Expert)](./angularjs-sandbox-escape-xss)
+* [Reflected XSS with AngularJS sandbox escape and CSP (Expert)](./xss-angular-csp-bypass)
