@@ -36,4 +36,4 @@ Welcome to my writeups for the PortSwigger Web Security Academy.
 * [Reflected XSS with AngularJS sandbox escape and CSP (Expert)](./xss-angularjs-csp-bypass)
 
 ### Cross-Origin-Resource-Sharing (CORS)
-* [CORS vulnerability with basic origin reflection (Apprentice)](./cors-misconfigured-api-key-theft)
+* [CORS vulnerability with basic origin reflection (Apprentice)](./cors-misconfiguration-api-key-theft)
